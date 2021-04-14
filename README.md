@@ -2,6 +2,7 @@
 Its a Easiest Demo of using Firebase Push Notification in Android App
 
 Just Copy Below lines in AndroidManifest
+
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_channel_id"
             android:value="default" />
