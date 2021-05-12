@@ -19,3 +19,6 @@ And Copy MyFirebaseMessagingService Class in Your Project , and Make sure to imp
 firebase-messaging In Gradle
 
 Thats it, just Enter your Server key in MyFirebaseMessagingService class and Use Easily
+
+For Detailed Tutorial Watch
+https://www.youtube.com/watch?v=OXFuDwzv9PI&t=250s
